@@ -39,6 +39,12 @@
 
 ## スキル
 
+### Laravel(2023 ~)
+
+### Swift(2023 ~)
+
+### Android Java(2023 ~)
+
 ### VBA (2018~)
 
 - 主にAccessVBAを業務で日常的に利用
@@ -85,7 +91,7 @@
 - コストパフォーマンスを考慮したアーキテクチャ設計ができる。
 - 従量課金/CSP/Azure Planなど、Azureサブスクリプションの契約形態を理解している。
 
-### AWS
+### AWS(2022 ~)
 
 - Elastic Beanstalk、RDSを使い、Laravel製業務アプリの環境を構築、運用。
 
